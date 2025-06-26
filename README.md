@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma Vats</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya281224" alt="aditya281224" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://idyllic-truffle-989eb3.netlify.app/](https://idyllic-truffle-989eb3.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-sharma-vats-6bb7b4218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sharma-vats-6bb7b4218" height="30" width="40" /></a>
