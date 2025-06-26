@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya281224" alt="aditya281224" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://idyllic-truffle-989eb3.netlify.app/](https://idyllic-truffle-989eb3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://incredible-sfogliatella-22a3b8.netlify.app/](https://incredible-sfogliatella-22a3b8.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
